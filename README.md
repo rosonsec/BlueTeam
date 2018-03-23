@@ -16,7 +16,7 @@
 
   
 <h3>Detecting Lateral Movement</h3>
-<li>Detecting Lateral Movement through Tracking Event Logs<a href="https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf"> v1</a><a href="https://www.jpcert.or.jp/english/pub/sr/Detecting%20Lateral%20Movement%20through%20Tracking%20Event%20Logs_version2.pdf">v2</a><a href="https://jpcertcc.github.io/ToolAnalysisResultSheet">Tool Analysis Site</a>
+<li>Detecting Lateral Movement through Tracking Event Logs<a href="https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf"> v1</a><a href="https://www.jpcert.or.jp/english/pub/sr/Detecting%20Lateral%20Movement%20through%20Tracking%20Event%20Logs_version2.pdf"> v2</a><a href="https://jpcertcc.github.io/ToolAnalysisResultSheet"> Tool Analysis Site</a>
 <li><a href="https://www.ncsc.gov.uk/guidance/preventing-lateral-movement">Preventing Lateral Movement (NCSC UK)</a>
 <li><a href="http://cert.europa.eu/static/WhitePapers/CERT-EU_SWP_17-002_Lateral_Movements.pdf">Detecting Lateral Movements in Windows Infrastructure (CERT-EU)</a>
 <li><a href="https://www.first.org/resources/papers/conf2016/FIRST-2016-105.pdf">Detecting Lateral Movement in APTs (FIRST)</a>
