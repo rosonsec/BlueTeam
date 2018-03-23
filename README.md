@@ -15,3 +15,24 @@
 
 
   
+<h3>Detecting Lateral Movement</h3>
+<li>Detecting Lateral Movement through Tracking Event Logs<a href="https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf"> v1</a><a href="https://www.jpcert.or.jp/english/pub/sr/Detecting%20Lateral%20Movement%20through%20Tracking%20Event%20Logs_version2.pdf">v2</a><a href="https://jpcertcc.github.io/ToolAnalysisResultSheet">Tool Analysis Site</a>
+<li><a href="https://www.ncsc.gov.uk/guidance/preventing-lateral-movement">Preventing Lateral Movement</a>
+<li><a href="http://cert.europa.eu/static/WhitePapers/CERT-EU_SWP_17-002_Lateral_Movements.pdf">Detecting Lateral Movements
+  in Windows Infrastructure (CERT-EU)</a>
+<li><a href="https://www.first.org/resources/papers/conf2016/FIRST-2016-105.pdf">Detecting Lateral Movement in APTs</a>
+<li><a href="https://labs.portcullis.co.uk/blog/hindering-lateral-movement">Hindering Lateral Movement</a>
+<li><a href="https://www.microsoft.com/en-us/download/details.aspx?id=36036">Mitigating Pass-the-Hash (PtH) Attacks and Other Credential Theft, Version 1 and 2</a>  
+<li><a href="http://download.microsoft.com/download/C/3/B/C3BD2D13-FC9B-4FAB-A1E7-43FC5DE5CFB2/PassTheHashAttack-DataSheet.pdf">How Pass-the-Hash works</a>
+<li><a href="https://dfirblog.wordpress.com/2015/11/08/protecting-windows-networks-defeating-pass-the-hash">PROTECTING WINDOWS NETWORKS – DEFEATING PASS-THE-HASH</a>
+<li><a href="https://www.sans.org/reading-room/whitepapers/testing/pass-the-hash-attacks-tools-mitigation-33283">Pass-the-hash attacks: Tools and Mitigation</a>
+
+
+
+<h3>Detection</h3>
+<li><a href="https://github.com/Intrinsec/WEF-handbook-appendix">Intrinsec WEF implementation handbook</a>
+
+
+
+<h3>Guides</h3>
+<li><a href="https://www.ncsc.gov.uk/guidance/mitigating-malware">Mitigating Malware</a>
