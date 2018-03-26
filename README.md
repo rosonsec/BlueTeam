@@ -31,7 +31,14 @@
 <h3>Detection</h3>
 <li><a href="https://github.com/Intrinsec/WEF-handbook-appendix">Intrinsec WEF implementation handbook</a>
 
-
-
 <h3>Guides</h3>
 <li><a href="https://www.ncsc.gov.uk/guidance/mitigating-malware">Mitigating Malware</a>
+
+<h3>Threat Hunting</h3>
+<li><a href="https://blogs.technet.microsoft.com/johnla/2015/04/26/defenders-think-in-lists-attackers-think-in-graphs-as-long-as-this-is-true-attackers-win/">Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.</a>
+<li><a href="https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-one-e38e06ffd604">Introducing the Adversary Resilience Methodology — Part One</a>
+<li><a href="https://posts.specterops.io/introducing-the-adversary-resilience-methodology-part-two-279a1ed7863d">Introducing the Adversary Resilience Methodology — Part Two</a>
+<li><a href="https://cyberwardog.blogspot.com.es/2017/02/setting-up-pentesting-i-mean-threat.html">Setting up a Pentesting... I mean, a Threat Hunting Lab</a>
+<li><a href="https://github.com/Cyb3rWard0g/HELK">The Hunting ELK (HELK)</a>
+<li><a href="https://github.com/JPCERTCC/LogonTracer">LogonTracer (JPCERTCC)</a>
+
