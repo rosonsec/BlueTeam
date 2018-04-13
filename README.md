@@ -25,7 +25,7 @@
 <li><a href="http://download.microsoft.com/download/C/3/B/C3BD2D13-FC9B-4FAB-A1E7-43FC5DE5CFB2/PassTheHashAttack-DataSheet.pdf">How Pass-the-Hash works (Microsoft)</a>
 <li><a href="https://dfirblog.wordpress.com/2015/11/08/protecting-windows-networks-defeating-pass-the-hash">PROTECTING WINDOWS NETWORKS – DEFEATING PASS-THE-HASH</a>
 <li><a href="https://www.sans.org/reading-room/whitepapers/testing/pass-the-hash-attacks-tools-mitigation-33283">Pass-the-hash attacks: Tools and Mitigation</a>
-<li><a href="https://lp.cyberark.com/rs/cyberarksoftware/images/wp-Labs-Pass-the-hash-research-01312018.pdf">PASS-THE-HASH DETECTION WITH WINDOWS EVENT VIEWER (CYBERARK)</a>
+<li><a href="https://lp.cyberark.com/rs/cyberarksoftware/images/wp-Labs-Pass-the-hash-research-01312018.pdf">PASS-THE-HASH DETECTION WITH WINDOWS EVENT VIEWER (CYBERARK)</a>| <a href="https://github.com/cyberark/ketshash">Tool Ketshash</a>
 
 
 
